@@ -1,0 +1,9 @@
+{
+  "vocab_size": 2510,
+  "context_length": 64,
+  "width": 128,
+  "heads": 4,
+  "layers": 4,
+  "hidden_width": 512,
+  "norm_epsilon": 1e-05
+}

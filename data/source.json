@@ -1,0 +1,10 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll",
+  "source": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+  "downloaded_from": "https://raw.githubusercontent.com/GITenberg/Alice-s-Adventures-in-Wonderland_11/master/11-0.txt",
+  "source_page": "https://www.gutenberg.org/ebooks/11",
+  "sha256_original": "49a0b2726606e1290ac03a63978fa1dd1bd38a8d805704d98265f393533ea094",
+  "body_characters": 147765,
+  "processing": "去掉正文前后说明及目录；训练分词时转小写，统一弯引号。"
+}

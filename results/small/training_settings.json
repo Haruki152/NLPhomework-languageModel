@@ -1,0 +1,19 @@
+{
+  "steps": 400,
+  "batch_size": 8,
+  "learning_rate": 0.001,
+  "weight_decay": 0.01,
+  "gradient_clip": 1.0,
+  "seed": 2026,
+  "threads": 4,
+  "device": "cpu",
+  "torch_version": "2.5.1+cpu",
+  "data_path": "E:\\NLPllm\\data\\alice.txt",
+  "data_sha256": "4660eab5d5510ef14c67b15cc8a5cff1f562b4c204a9d0f16c1acfd133f12631",
+  "training_tokens": 31305,
+  "validation_tokens": 3061,
+  "validation_unknown_fraction": 0.05423064358052924,
+  "eval_batches": 8,
+  "eval_every": 50,
+  "split": "按段落划分，前 90% 训练，后 10% 验证；仅训练集建词表"
+}

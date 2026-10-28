@@ -1,0 +1,56 @@
+[
+  {
+    "check": "check_softmax",
+    "passed": true,
+    "seconds": 0.004
+  },
+  {
+    "check": "check_normalization",
+    "passed": true,
+    "seconds": 0.716
+  },
+  {
+    "check": "check_attention",
+    "passed": true,
+    "seconds": 0.004
+  },
+  {
+    "check": "check_model_causality",
+    "passed": true,
+    "seconds": 0.005
+  },
+  {
+    "check": "check_label_shift",
+    "passed": true,
+    "seconds": 0.001
+  },
+  {
+    "check": "check_loss_and_gradients",
+    "passed": true,
+    "seconds": 0.012
+  },
+  {
+    "check": "check_parameter_formula",
+    "passed": true,
+    "seconds": 0.3
+  },
+  {
+    "check": "check_checkpoint_and_generation",
+    "passed": true,
+    "seconds": 0.099
+  },
+  {
+    "check": "check_tokenizer",
+    "passed": true,
+    "seconds": 0.0
+  },
+  {
+    "check": "check_tiny_overfit",
+    "passed": true,
+    "seconds": 1.323,
+    "details": {
+      "initial_loss": 2.556358814239502,
+      "final_loss": 0.0079306960105896
+    }
+  }
+]

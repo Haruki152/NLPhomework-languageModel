@@ -1,0 +1,13 @@
+{
+  "total": 1122816,
+  "trainable": 1122816,
+  "groups": {
+    "words": 321280,
+    "positions": 8192,
+    "decoder.0": 198272,
+    "decoder.1": 198272,
+    "decoder.2": 198272,
+    "decoder.3": 198272,
+    "final_norm": 256
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "initial_train_loss": 7.8333799839019775,
+  "final_train_loss": 3.8541326820850372,
+  "initial_validation_loss": 7.823585569858551,
+  "final_validation_loss": 5.006813704967499,
+  "train_loss_decreased": true,
+  "validation_loss_decreased": true,
+  "steps": 400,
+  "parameters": 1122816,
+  "elapsed_seconds": 37.925
+}
